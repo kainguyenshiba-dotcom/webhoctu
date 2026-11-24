@@ -68,6 +68,29 @@ export const sets = [
     ['put a trip off','hoãn chuyến đi','/pʊt ə trɪp ɔːf/','We put it off because of the storm.'],
     ['go off the beaten track','đến nơi ít du khách lui tới','/ɡoʊ ɔːf ðə ˈbiːtən træk/','We went off the beaten track and stayed in a small village.'],
     ['travel light','đi du lịch với ít hành lý','/ˈtrævəl laɪt/','I prefer to travel light, especially on short trips.']
+  ]},
+  { id:'global-success-unit-7', section:'TEXTBOOK', title:'7 unit Global Success lớp 10', vi:'Unit 7 · Viet Nam and International Organisations', count:21, color:'lilac', words:[
+    ['aim','mục tiêu; đặt mục tiêu','/eɪm/','The organisation aims to improve education around the world.'],
+    ['commit','cam kết','/kəˈmɪt/','Member countries commit to working together.'],
+    ['competitive','có tính cạnh tranh','/kəmˈpetətɪv/','The country operates in a competitive global market.'],
+    ['economic','thuộc về kinh tế','/ˌiːkəˈnɒmɪk/','Economic cooperation can create new opportunities.'],
+    ['economy','nền kinh tế','/ɪˈkɒnəmi/','International trade can support the local economy.'],
+    ['enter','đi vào; thâm nhập','/ˈentə(r)/','The company plans to enter a new market.'],
+    ['essential','cần thiết; thiết yếu','/ɪˈsenʃl/','Education is essential for a country’s development.'],
+    ['expert','thuộc về chuyên môn','/ˈekspɜːt/','The programme provides expert advice to local teams.'],
+    ['harm','sự nguy hại; tác hại','/hɑːm/','The agreement aims to reduce harm to the environment.'],
+    ['invest','đầu tư','/ɪnˈvest/','The organisation helps countries invest in healthcare.'],
+    ['peacekeeping','gìn giữ hòa bình','/ˈpiːskiːpɪŋ/','Peacekeeping missions support stability in the region.'],
+    ['poverty','tình trạng nghèo đói','/ˈpɒvəti/','The project works to reduce poverty.'],
+    ['promote','thúc đẩy; quảng bá','/prəˈməʊt/','The campaign promotes cooperation between countries.'],
+    ['quality','chất lượng; có chất lượng','/ˈkwɒləti/','The programme aims to improve the quality of education.'],
+    ['regional','thuộc về khu vực','/ˈriːdʒənl/','Regional organisations help countries work together.'],
+    ['relation','mối quan hệ','/rɪˈleɪʃn/','The agreement strengthened relations between the two countries.'],
+    ['respect','tôn trọng; ghi nhận','/rɪˈspekt/','All members should respect international law.'],
+    ['technical','thuộc về kỹ thuật','/ˈteknɪkl/','Experts provide technical support to local communities.'],
+    ['trade','thương mại','/treɪd/','Fair trade can benefit businesses and workers.'],
+    ['vaccinate','tiêm vắc-xin','/ˈvæksɪneɪt/','Health workers vaccinate children against serious diseases.'],
+    ['welcome','chào đón; hoan nghênh','/ˈwelkəm/','The country welcomes support from international partners.']
   ]}
 ];
 
